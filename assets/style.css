@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(135deg,#1f4037,#99f2c8);
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+.stMetric {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.stDataFrame {
+    background-color: white;
+}
